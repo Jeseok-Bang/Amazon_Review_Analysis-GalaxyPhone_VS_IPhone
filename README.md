@@ -1,5 +1,5 @@
 # Amazon_Review_Analysis-GalaxyPhone_VS_IPhone
-## 아마존 리뷰 텍스트 분석 : 삼성 갤럭시폰과 애플 아이폰 비교 분석
+### 주제 : 아마존 리뷰 텍스트 분석 : 삼성 갤럭시폰과 애플 아이폰 비교 분석
 ### 분석도구 : Python
 ### 분석기법
 * 텍스트 분석
