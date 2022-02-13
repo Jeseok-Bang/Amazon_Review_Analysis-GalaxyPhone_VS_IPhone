@@ -1,6 +1,8 @@
 # Amazon_Review_Analysis-GalaxyPhone_VS_IPhone
 ### 주제 : 아마존 리뷰 텍스트 분석 - 삼성 갤럭시폰과 애플 아이폰 비교 분석
 ### 분석 도구 : Python
+### 분석 프로세스
+![아마존](https://user-images.githubusercontent.com/53997054/153756050-db9f92ca-0636-4f6b-87b0-ba839f5feab0.png)
 ### 분석 기법
 * 텍스트 분석
   * TF-IDF(Term Frequency - Inverse Document Frequency) : 여러 문서 중에서 특정 문서가 특징적으로 갖고 있는 키워드를 추출하는 기법 
